@@ -1,14 +1,26 @@
 # DIFETTI TROVATI
-### - I luoghi della scuola: mappa poco efficiente ed l'indirizzo dello succursale non presente (Laboratorio fisica presenta parcheggio)
-- Informazioni personali leggermente nebulosa, contiene solamente dirigente scolastico
-- Le notizie non sono coerenti, non sono presenti tutte le notizie del registro
-- Calendario Eventi non completo
-- Le schede didattiche malfunzionamento
-- Nella panorama didattica sono presenti 3 collegamenti alla sezioni progetti ingombrante
-- I progetti delle classi selezioni della tipologia malfunzionamento, "Consulta i progetti degli anni scorsi" insignificante, inoltre non sono aggiornati progetti recenti
-- Piattaforma e-learning eseguimento molto lento
-- Nella ricerca viene seleziona solo l’ambito della scuola come predefinito
-- Quanto pare ci sono diversificazioni nella versione tablet
+#### - Scuola-I luoghi della scuola: mappa poco efficiente ed l'indirizzo dello succursale non presente (Laboratorio fisica presenta parcheggio)
+soluzione: apportare una mappa ingrandibibile con la posizione della scuola indicata, funzionante simile a google map; eliminare tutti i laboratori poichè non servono avendo pure la stessa mail della sede, aggiungere informazioni delle succursali
+#### - Informazioni personali leggermente nebulosa, contiene solamente dirigente scolastico
+soluzione: Scuola-Le persone aggiungere
+#### - Le notizie non sono coerenti, non sono presenti tutte le notizie del registro
+soluzione: 
+#### - Calendario Eventi non completo
+soluzione: 
+#### - Le schede didattiche malfunzionamento
+soluzione: 
+#### - Nella panorama didattica sono presenti 3 collegamenti alla sezioni progetti ingombrante
+soluzione: 
+#### - I progetti delle classi selezioni della tipologia malfunzionamento, "Consulta i progetti degli anni scorsi" insignificante, inoltre non sono aggiornati progetti recenti
+soluzione: 
+#### - Piattaforma e-learning eseguimento molto lento
+soluzione: 
+#### - Nella ricerca viene seleziona solo l’ambito della scuola come predefinito
+soluzione: 
+#### - Quanto pare ci sono diversificazioni nella versione tablet
+soluzione: 
+#### - Scuola-Organizzazione-Strutture funzione duplica
+soluzione: 
 
 
 # LAVORI DA ESEGUIRE
