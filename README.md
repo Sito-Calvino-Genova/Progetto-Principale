@@ -15,13 +15,13 @@ Prendere le decisioni definitive (sentiti i soggetti coinvolti); assegnare e org
 --------
 Counselors
 Prof.ssa L. Sorrentino
-
-
 Prof. E. Leone
 Prof. M. Rimassa
 Prof. R. Quaglia
 Prof. A. Sbarbaro
 Prof. L. Ferrari
+
+
 Consigliare lo Sponsor; valutare e proporre come assegnare i ruoli; definire tempistiche e richieste
 --------
 Technical department
@@ -69,5 +69,7 @@ Aggiungere, migliorare, riorganizzare, aggiornare i contenuti
 --------
 Test & Quality Manager
 Chen
+
+
 Verificare l’aderenza del prodotto alle richieste; segnalare al Project manager eventuali criticità; effettuare test utilizzando prodotti automatizzati; mantenere un catalogo aggiornato dei test passati e falliti;  
 --------
