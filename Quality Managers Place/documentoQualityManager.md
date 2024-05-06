@@ -8,6 +8,7 @@
 - I progetti delle classi selezioni della tipologia malfunzionamento, "Consulta i progetti degli anni scorsi" insignificante, inoltre non sono aggiornati progetti recenti
 - Piattaforma e-learning eseguimento molto lento
 - Nella ricerca viene seleziona solo l’ambito della scuola come predefinito
+- Quanto pare ci sono diversificazioni nella versione tablet
 
 
 # LAVORI DA ESEGUIRE
