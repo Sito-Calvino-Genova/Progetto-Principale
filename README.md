@@ -3,7 +3,7 @@ I prodotti che devono essere consegnati sono:le varie documentazioni inerenti ag
 L’utente, alla fine del progetto, troverà un sito responsivo e intuitivo che aiuterà a trovare le informazioni principali sull’istituto.
 
 Per ogni dubbio contattare fabio.merello.2005@calvino.edu.it
-Se si avessero link utili riguardanti qualche repository GitHub pubblici si prega di caricarli nel posto giusto (Projects).
+
 
 RUOLI E RESPONSABILITA
 --------
