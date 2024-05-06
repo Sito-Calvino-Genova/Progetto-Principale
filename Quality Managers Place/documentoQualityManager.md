@@ -1,17 +1,21 @@
 # DIFETTI TROVATI
 #### - Scuola-I luoghi della scuola: mappa poco efficiente ed l'indirizzo dello succursale non presente (Laboratorio fisica presenta parcheggio)
 soluzione: apportare una mappa ingrandibibile con la posizione della scuola indicata, funzionante simile a google map; eliminare tutti i laboratori poichè non servono avendo pure la stessa mail della sede, aggiungere informazioni delle succursali
-#### - Informazioni personali leggermente nebulosa, contiene solamente dirigente scolastico
-soluzione: Scuola-Le persone aggiungere
-#### - Le notizie non sono coerenti, non sono presenti tutte le notizie del registro
+#### - Scuola-Organizzazione-Strutture funzione duplica
+soluzione: eliminare la pagina tipologia
+#### - Scuola-Organizzazione e Scuola-le persone funzione molto simile
+soluzione: o fornire informazioni diversi utili oppure unificare le due funzioni
+#### - Informazioni personali leggermente nebulosa, contiene solamente dirigente scolastico ed alcuni dipartimenti
+soluzione: Scuola-Organizzazione e Scuola-Le persone aggiungere le informazioni mancanti e aggiornare quelli vecchi
+#### - Novità-Calendario Eventi non completo
 soluzione: 
-#### - Calendario Eventi non completo
+#### - Novità-Calendario Eventi funzione tipologia inutile
 soluzione: 
-#### - Le schede didattiche malfunzionamento
+#### - Didattica-Le schede didattiche malfunzionamento
 soluzione: 
-#### - Nella panorama didattica sono presenti 3 collegamenti alla sezioni progetti ingombrante
+#### - Didattica-Panoramica sono presenti 3 collegamenti alla sezioni progetti ingombrante
 soluzione: 
-#### - I progetti delle classi selezioni della tipologia malfunzionamento, "Consulta i progetti degli anni scorsi" insignificante, inoltre non sono aggiornati progetti recenti
+#### - Didattica-I progetti delle classi selezioni della tipologia malfunzionamento, "Consulta i progetti degli anni scorsi" insignificante, inoltre non sono aggiornati progetti recenti
 soluzione: 
 #### - Piattaforma e-learning eseguimento molto lento
 soluzione: 
@@ -19,8 +23,9 @@ soluzione:
 soluzione: 
 #### - Quanto pare ci sono diversificazioni nella versione tablet
 soluzione: 
-#### - Scuola-Organizzazione-Strutture funzione duplica
+#### - Non si possono selezionare più tipologie
 soluzione: 
+
 
 
 # LAVORI DA ESEGUIRE
