@@ -1,12 +1,14 @@
-﻿# DIFETTI TROVATI
+# DIFETTI TROVATI
 - I luoghi della scuola: mappa poco efficiente ed l'indirizzo dello succursale non presente (Laboratorio fisica presenta parcheggio)
 - Informazioni personali leggermente nebulosa, contiene solamente dirigente scolastico
 - Le notizie non sono coerenti, non sono presenti tutte le notizie del registro
 - Calendario Eventi non completo
 - Le schede didattiche malfunzionamento
+- Nella panorama didattica sono presenti 3 collegamenti alla sezioni progetti ingombrante
 - I progetti delle classi selezioni della tipologia malfunzionamento, "Consulta i progetti degli anni scorsi" insignificante, inoltre non sono aggiornati progetti recenti
 - Piattaforma e-learning eseguimento molto lento
 - Nella ricerca viene seleziona solo l’ambito della scuola come predefinito
+
 
 # LAVORI DA ESEGUIRE
 - Effettuazione di test per valutare l'aderenza del prodotto alle richieste e per identificare eventuali difetti o anomalie.
