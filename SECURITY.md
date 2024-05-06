@@ -13,7 +13,7 @@ Utilizza questa sezione per scoprire quali versioni del progetto stanno attualme
 
 ## Segnalazione di una Vulnerabilità
 
-Se scopri una vulnerabilità di sicurezza all'interno di questo progetto, per favore invia un'email a [security@example.com](mailto:security@example.com). Tutte le vulnerabilità di sicurezza verranno prontamente affrontate.
+Se scopri una vulnerabilità di sicurezza all'interno di questo progetto, per favore invia un'email a [fabio.merello.2005@calvino.edu.it](mailto:fabio.merello.2005@calvino.edu.it). Tutte le vulnerabilità di sicurezza verranno prontamente affrontate.
 
 Quando segnali una vulnerabilità, includi i seguenti dettagli:
 - Descrizione della vulnerabilità
