@@ -1,4 +1,4 @@
-# DIFETTI TROVATI
+﻿# DIFETTI TROVATI
 - I luoghi della scuola: mappa poco efficiente ed l'indirizzo dello succursale non presente (Laboratorio fisica presenta parcheggio)
 - Informazioni personali leggermente nebulosa, contiene solamente dirigente scolastico
 - Le notizie non sono coerenti, non sono presenti tutte le notizie del registro
@@ -15,4 +15,4 @@
 - Revisione della documentazione riguardante le normative da seguire, gli aggiornamenti lato back-end e lato front-end per garantire la coerenza e la completezza delle informazioni.
 - Documentazione delle procedure e delle metriche di controllo della qualità adottate.
 - Analisi dei contenuti del sito per assicurare l'accuratezza e la rilevanza delle informazioni fornite.
-- Verifica della corretta implementazione delle soluzioni tecniche proposte dal Technical Department.
+- Verifica della corretta implementazione delle soluzioni tecniche proposte dal Technical Departmt.
