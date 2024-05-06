@@ -1,6 +1,5 @@
 # DIFETTI TROVATI
-a
-- I luoghi della scuola: mappa poco efficiente ed l'indirizzo dello succursale non presente (Laboratorio fisica presenta parcheggio)
+## - I luoghi della scuola: mappa poco efficiente ed l'indirizzo dello succursale non presente (Laboratorio fisica presenta parcheggio)
 - Informazioni personali leggermente nebulosa, contiene solamente dirigente scolastico
 - Le notizie non sono coerenti, non sono presenti tutte le notizie del registro
 - Calendario Eventi non completo
