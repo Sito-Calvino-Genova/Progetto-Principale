@@ -19,3 +19,5 @@
 - Documentazione delle procedure e delle metriche di controllo della qualità adottate.
 - Analisi dei contenuti del sito per assicurare l'accuratezza e la rilevanza delle informazioni fornite.
 - Verifica della corretta implementazione delle soluzioni tecniche proposte dal Technical Department.
+
+:poop: :poop: :poop: :poop: :poop:
