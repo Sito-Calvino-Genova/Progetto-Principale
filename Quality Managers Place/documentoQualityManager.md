@@ -15,4 +15,4 @@
 - Revisione della documentazione riguardante le normative da seguire, gli aggiornamenti lato back-end e lato front-end per garantire la coerenza e la completezza delle informazioni.
 - Documentazione delle procedure e delle metriche di controllo della qualità adottate.
 - Analisi dei contenuti del sito per assicurare l'accuratezza e la rilevanza delle informazioni fornite.
-- Verifica della corretta implementazione delle soluzioni tecniche proposte dal Technical Departmt.
+- Verifica della corretta implementazione delle soluzioni tecniche proposte dal Technical Department.
