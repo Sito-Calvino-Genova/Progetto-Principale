@@ -29,7 +29,7 @@ soluzione:
 
 
 # LAVORI DA ESEGUIRE
-### - Effettuazione di test per valutare l'aderenza del prodotto alle richieste e per identificare eventuali difetti o anomalie.:
+### Effettuazione di test per valutare l'aderenza del prodotto alle richieste e per identificare eventuali difetti o anomalie:
 - Test di funzionalità: Verificare che tutte le funzionalità del sito web, sia sul lato front-end che sul lato back-end, funzionino come previsto. Assicurare che i link siano funzionanti, i moduli di contatto inviino correttamente i messaggi, e così via.
 - Test di gestione degli errori: Verificare che non ci siano problemi durante l'implementazione di aggiornamenti o modifiche al sito. Assicurare che il sito possa essere rapidamente ripristinato a uno stato funzionante precedente senza perdita di dati o servizio.
 - Test di compatibilità del browser: Controllare se il sito è visualizzato correttamente su diversi browser come Chrome, Firefox, Safari e Edge. Assicurare che sia compatibile con le versioni più recenti di ciascun browser.
@@ -40,8 +40,7 @@ soluzione:
 - Test di conformità normativa: Assicurare che sia conforme a eterminate normative o regolamenti. Verificare che vengano rispettate tutte le leggi sulla privacy, sulla protezione dei dati e altre normative pertinenti.
 - Test di conformità ai requisiti: Verificare della corretta implementazione delle soluzioni tecniche proposte dal Technical Department.
 
+### Report da produrre:
 - Mantenimento di un catalogo aggiornato dei test passati e falliti per monitorare l'evoluzione della qualità del prodotto nel tempo.
 - Valutazione dell'usabilità e dell'esperienza utente del sito web.
-- Revisione della documentazione riguardante le normative da seguire, gli aggiornamenti lato back-end e lato front-end per garantire la coerenza e la completezza delle informazioni.
 - Documentazione delle procedure e delle metriche di controllo della qualità adottate.
-- Analisi dei contenuti del sito per assicurare l'accuratezza e la rilevanza delle informazioni fornite.
