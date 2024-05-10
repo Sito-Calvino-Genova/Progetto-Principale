@@ -29,7 +29,7 @@ soluzione:
 
 
 # LAVORI DA ESEGUIRE
-###- Effettuazione di test per valutare l'aderenza del prodotto alle richieste e per identificare eventuali difetti o anomalie.
+### - Effettuazione di test per valutare l'aderenza del prodotto alle richieste e per identificare eventuali difetti o anomalie.
 - Verificare che non ci siano problemi durante l'implementazione di aggiornamenti o modifiche al sito. Assicurare che il sito possa essere rapidamente ripristinato a uno stato funzionante precedente senza perdita di dati o servizio.
 - Mantenimento di un catalogo aggiornato dei test passati e falliti per monitorare l'evoluzione della qualità del prodotto nel tempo.
 - Valutazione dell'usabilità e dell'esperienza utente del sito web.
