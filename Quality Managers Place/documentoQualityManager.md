@@ -29,6 +29,22 @@ soluzione: come predefinito selezionare tutti gli ambiti per la ricerca
 soluzione: verificare e assicurare la coerenza tra i dispositivi
 #### - Novità-Le notizie non si possono selezionare più tipologie
 soluzione: aggiungere la possibilità di selezionare più tipologie
+#### - Una volta acceduto come Personale scolastico le funzioni "Crea e gestisci" e "Area personale" porta allo stesso luogo
+soluzione: differenziare o unificare i collegamenti
+#### - Accesso-Personale scolastico-Profilo Pubblico non mostra alcuna informazione a parte nome, pagina inutile
+soluzione: mostrare maggiori dati come classe frequente, data e luogo di nascita, numero di telefono etc.
+#### - Accesso-Personale scolastico-Modifica profilo non permesso
+soluzione: rivalutare l'importanza della funzione nel caso toglierlo dal menù principale
+#### - Accesso-Personale scolastico-Area personale-Profilo stessa funzione di Modifica profilo non permesso
+soluzione: rimuovere Modifica profilo
+#### - Accesso-Personale scolastico-Area personale-Ciao utente stessa funzione di Modifica profilo non permesso
+soluzione: rimuovere il link
+#### - Accesso-Personale scolastico-Area personale-Impostazione schermata funzione poco utile
+soluzione: rivalutare l'importanza della funzione nel caso toglierlo
+#### - Accesso-Personale scolastico-Area personale-Manuale manuale per creare il sito scolastico rimasto per errore
+soluzione: rimuoverlo
+#### - Accesso-Personale scolastico-Area personale pagina poco utile dato che non ci sono informazioni nella bacheca
+soluzione: rivalutare l'importanza della funzione nel caso toglierlo
 
 
 
