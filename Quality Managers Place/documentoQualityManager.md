@@ -39,11 +39,9 @@ soluzione: rivalutare l'importanza della funzione nel caso toglierlo dal menù p
 soluzione: rimuovere Modifica profilo
 #### - Accesso-Personale scolastico-Area personale-Ciao utente stessa funzione di Modifica profilo non permesso
 soluzione: rimuovere il link
-#### - Accesso-Personale scolastico-Area personale-Impostazione schermata funzione poco utile
-soluzione: rivalutare l'importanza della funzione nel caso toglierlo
 #### - Accesso-Personale scolastico-Area personale-Manuale manuale per creare il sito scolastico rimasto per errore
 soluzione: rimuoverlo
-#### - Accesso-Personale scolastico-Area personale pagina poco utile dato che non ci sono informazioni nella bacheca
+#### - Accesso-Personale scolastico-Area personale-Impostazione schermata funzione poco utile
 soluzione: rivalutare l'importanza della funzione nel caso toglierlo
 
 
