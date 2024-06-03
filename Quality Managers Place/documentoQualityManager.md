@@ -20,7 +20,7 @@ soluzione: aggiungere la pagina mancante
 #### - Didattica-Panoramica sono presenti 3 collegamenti ingombranti alla sezioni progetti
 soluzione: unificare i collegamenti
 #### - Didattica-I progetti delle classi selezioni della tipologia parziale, "Consulta i progetti degli anni scorsi" insignificante, inoltre non sono aggiornati progetti recenti
-soluzione: aggiungere più tipologie, correggere o eliminiare "Consulta i progetti degli anni scorsi", continuo aggiornamento delle informazioni
+soluzione: aggiungere più tipologie, correggere o eliminare "Consulta i progetti degli anni scorsi", continuo aggiornamento delle informazioni
 #### - Piattaforma e-learning eseguimento molto lento
 soluzione: rielaborare lato back-end, in modo da velocizzare il caricamento delle pagine
 #### - Nella ricerca viene seleziona solo l’ambito della scuola come predefinito
