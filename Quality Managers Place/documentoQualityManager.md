@@ -55,7 +55,7 @@ soluzione: rivalutare l'importanza della funzione nel caso toglierlo
 - Test di performance: Valutare le prestazioni del sito, inclusi i tempi di caricamento delle pagine e la reattività dell'interfaccia utente. Utilizzare strumenti come Google PageSpeed Insights per identificare eventuali aree di miglioramento.
 - Test di contenuto: Controllare la correttezza, la coerenza e la completezza del contenuto del sito. Assicurare che tutte le informazioni siano aggiornate.
 - Test di registrazione e autenticazione degli utenti: Verificare che il processo di registrazione e autenticazione sia sicuro e intuitivo. Assicurare che le password vengano gestite in modo sicuro e che vengano applicate politiche di password robuste.
-- Test di conformità normativa: Assicurare che sia conforme a eterminate normative o regolamenti. Verificare che vengano rispettate tutte le leggi sulla privacy, sulla protezione dei dati e altre normative pertinenti.
+- Test di conformità normativa: Assicurare che sia conforme a determinate normative o regolamenti. Verificare che vengano rispettate tutte le leggi sulla privacy, sulla protezione dei dati e altre normative pertinenti.
 - Test di conformità ai requisiti: Verificare della corretta implementazione delle soluzioni tecniche proposte dal Technical Department.
 
 ### Report da produrre:
