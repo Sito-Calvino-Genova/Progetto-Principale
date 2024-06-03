@@ -1,6 +1,6 @@
 # DIFETTI TROVATI
 #### - Scuola-I luoghi della scuola: mappa poco efficiente ed l'indirizzo dello succursale non presente (Laboratorio fisica presenta parcheggio)
-soluzione: apportare una mappa ingrandibibile con la posizione della scuola indicata, funzionante simile a google map; eliminare tutti i laboratori poichè non servono avendo pure la stessa mail della sede, aggiungere informazioni delle succursali
+soluzione: apportare una mappa ingrandibile con la posizione della scuola indicata, funzionante simile a google map; eliminare tutti i laboratori poichè non servono avendo pure la stessa mail della sede, aggiungere informazioni delle succursali
 #### - Scuola-Organizzazione-Strutture funzione duplica
 soluzione: eliminare la pagina tipologia
 #### - Scuola-Organizzazione e Scuola-le persone funzione molto simile
