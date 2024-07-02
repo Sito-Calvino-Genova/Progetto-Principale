@@ -1,0 +1,4 @@
+Nella cartella riguardante i Fogli Google le ho allegato 3 metodologie con le quasi si può visualizzare il lavoro:
+- Un PDF che racchiude tutte le 18 pagine di lavoro nel quale ho cercato di utilizzare una dimensione del foglio (in questo caso A3) che permettesse la visualizzazione di una pagina alla volta;
+- Una cartella compressa che racchiude al suo interno la visualizzazione in html del lavoro svolto (sono tutte le 18 pagine);
+- Un documento di testo nel quale è contenbuto un link diretto alla pagina interessata.

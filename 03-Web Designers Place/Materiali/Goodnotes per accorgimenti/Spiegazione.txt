@@ -1,0 +1,3 @@
+La cartella allegata contiene le immaginii di alcune delle pagine del sito.
+Non sono state inserite tutte siccome la struttura è più o meno simile in tutte, di conseguenza basta applicare le modifiche inerenti alla homepage e al menù per modificarle in maniera efficiente.
+Inoltre basta seguire il pattern di modifica dei colori per farli rendere al meglio (generalmente sono stati schiariti rendendoli più chiari)
